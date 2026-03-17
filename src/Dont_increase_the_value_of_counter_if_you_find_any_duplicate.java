@@ -2,8 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Dont_increase_the_value_of_counter_if_you_find_any_duplicate {
-	//discription : need to move from top to bottom and print 1,2,3,...
-	//but if will find any duplicate don't increase the value
+	// Description: Traverse from top to bottom and print 1, 2, 3, ... but if a duplicate is found, do not increment the value."
 //	input
 //	5
 //	john tom
