@@ -7,7 +7,7 @@ public class ReplaceCharWithStarIfLengthIsGreaterThanThree {
 	public static void main(String[] args) {
 		
     //input = "Same ytegde eat"
-	//o/p =  "Same ****** eat " 
+	//o/p =  "**** ****** eat " 
 		
 		System.out.println("enter any sentence");
 		Scanner sc = new Scanner(System.in);
